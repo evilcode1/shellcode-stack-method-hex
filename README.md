@@ -6,13 +6,7 @@ python hex.py "evil"
 
 output : 
 
- _____________________________________________
-|            C0d3d By : [ Evilcode1 ]         |
-|                                             |
-|      5tr!n9 t0 r3v3r53[H3X] C0nv3rt3r       |
-|                                             |
-|             |evilcode1@mail.ru|             |
-|_____________________________________________|
+
 [+] Orginal String : evil
 
 [+] Reverse String : live
@@ -29,6 +23,7 @@ output :
 
 
 [+] Done
+
 
 
 
